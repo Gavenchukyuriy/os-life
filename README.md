@@ -6,10 +6,6 @@
 This tutorial demonstrates Making Actual Ticket Lifecycle Examples and Observing all the ticket properties and responding to them as help desk professionals..<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Ticket Lifecycle](https://www.youtube.com/playlist?list=PLRwChl0ROcE7yfqEbbmVsT3gcU5yXW7VP)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
